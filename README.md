@@ -2,7 +2,7 @@
 ## Jason Yeske   
 
  ### Sait Main page
- ![Sait Main Page](/images/sait.png)
+ ![Sait Main Page](/images/Sait.png)
  ### Global Navigation
  ![Global Navigation](/images/global-navigation.png)
  ### Local Navigation
