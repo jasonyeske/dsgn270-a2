@@ -2,7 +2,7 @@
 ## Jason Yeske   
 
  ### Sait Main page
- ![Sait Main Page](/images/Sait.png)
+ ![Sait Main Page](/images/sait.png)
  ### Global Navigation
  ![Global Navigation](/images/global-navigation.png)
  ### Local Navigation
@@ -12,7 +12,7 @@
 ### Hamburger Menu
 ![Hamburger Menu](/images/hamburger-menu.png)
 ### Sticky Header
-![sticky Header](/images/sticky-header.png)
+![Sticky Header](/images/sticky-header.png)
 ### Hero Footer
 ![Hero Footer](/images/hero-footer.png)
 ## Call To Action
@@ -31,4 +31,4 @@
 6. The site uses repetition by having multiple places throughout the page you can "browse all programs"
 7. Lots of different colours around the call-to-action, then white space with text under it
 
-Sait really wants the target audience to apply for a program by telling people their career choice is waiting for you after completing the program applied for.
+- Sait really wants the target audience to apply for a program by telling people their career choice is waiting for you after completing the program applied for.
