@@ -30,4 +30,4 @@
 5. There is a search bar used for navigating specific areas of the site, and a redirect link to browse all the programs SAIT has to offer. 
 6. The site uses repetition by having multiple places throughout the page you can "browse all programs"
 7. Lots of different colours around the call-to-action, then white space with text under it
-- Sait really wants the target audience to apply for a program by telling people their career choice is waiting for you after completing the program applied for.
+ Sait really wants the target audience to apply for a program by telling people their career choice is waiting for you after completing the program applied for.
