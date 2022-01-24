@@ -13,4 +13,6 @@
 ![sticky Header](/images/sticky-header.png)
 ### Hero Footer
 ![Hero Footer](/images/hero-footer.png)
+## Call To Action
+![Call to Action](/images/call-to-action.png)
 
